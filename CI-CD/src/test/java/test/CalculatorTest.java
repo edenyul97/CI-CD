@@ -10,6 +10,7 @@ class CalculatorTest {
 
 	@Test
 	void test_sum() {
+		//test		
 		Calculator cal = new Calculator();
 		assertEquals(6, cal.sum(2, 4));
 	}
