@@ -1,16 +1,11 @@
 package test;
 
-
-import org.junit.Test;
-
-import static org.junit.Assert.assertEquals;
-
 import calc.Calculator;
 
 class CalculatorTest {
 
 	@Test
-	void test_sum() {
+	void test_Sum() {
 		//test		
 		Calculator cal = new Calculator();
 		assertEquals(6, cal.sum(2, 4));
