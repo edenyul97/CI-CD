@@ -15,10 +15,10 @@
   <dependencyManagement>
     <dependencies>
       <dependency>
-	    <groupId>junit</groupId>   
-		<artifactId>junit-dep</artifactId>
-		<version>4.8.2</version>
-		<scope>test</scope>
+	  <groupId>org.testng</groupId>
+	  <artifactId>testng</artifactId>
+	  <version>7.0.0</version>
+	  <scope>test</scope>
 	  </dependency>
 	</dependencies>
   </dependencyManagement>
