@@ -3,7 +3,6 @@
   <groupId>com.test.project</groupId>
   <artifactId>CI-CD</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
   <name>CI-CD</name>
   <description>CI-CD 관련 test</description>
   
