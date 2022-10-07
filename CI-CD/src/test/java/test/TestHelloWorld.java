@@ -9,4 +9,9 @@ public class TestHelloWorld {
 	public void testWorld() {
 		System.out.println(" --Hello world-- ");
 	}
+	
+	@Test
+	public void testAddFunc() {
+		System.out.println(" add Func and pull test ");
+	}
 }
